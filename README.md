@@ -1,2 +1,2 @@
-# weatherapp01
+# Weather App
 FCC Weather App version 01
