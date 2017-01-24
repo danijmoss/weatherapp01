@@ -1,5 +1,5 @@
 var baseURL = "http://api.openweathermap.org/data/2.5/weather?"
-var apiKey = "2ca568839db1b37c90c1d38842418e08";
+var apiKey = "API_KEY";
 
 $(document).ready(function() {
     
